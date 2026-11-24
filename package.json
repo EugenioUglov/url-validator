@@ -1,0 +1,25 @@
+{
+  "name": "@eugeniouglov/url-validator",
+  "version": "1.0.0",
+  "description": "Simple URL validator — adds http:// to addresses without a protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "url",
+    "validator",
+    "http",
+    "https"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/@eugeniouglov/url-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/@eugeniouglov/url-validator/issues"
+  }
+}
